@@ -88,18 +88,18 @@ Aggregated from production repositories as of May 2026:
 
 ```mermaid
 quadrantChart
-    title Technology Priority Matrix — Wesley Gomes da Silva
+    title Technology Priority Matrix Wesley Gomes da Silva
     x-axis Low Market Demand --> High Market Demand
     y-axis Low Mastery --> High Mastery
-    quadrant-1 Core: Bill immediately
-    quadrant-2 Foundation: Specialist depth
-    quadrant-3 Growing: Expanding
+    quadrant-1 Core Bill immediately
+    quadrant-2 Foundation Specialist depth
+    quadrant-3 Growing
     quadrant-4 Low priority
     TypeScript: [0.85, 0.96]
     Angular: [0.92, 0.96]
     Java: [0.79, 0.80]
     PowerShell: [0.20, 0.93]
-    HTML/SCSS: [0.30, 0.88]
+    HTML SCSS: [0.30, 0.88]
     JavaScript: [0.73, 0.73]
     Shell: [0.23, 0.55]
     Python: [0.60, 0.58]
