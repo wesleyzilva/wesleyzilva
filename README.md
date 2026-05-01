@@ -1,7 +1,7 @@
-<h1 align="center">Wesley Zilva</h1>
+<h1 align="center">Wesley Gomes da Silva</h1>
 
 <p align="center">
-  <em>Full-Stack Engineer · AI-Assisted Development · Angular · Java · Cloud-Ready</em>
+  <em>Nearshore Tech Lead · Angular · Java · AI-First Operating Model · UTC-3 · C2 English</em>
 </p>
 
 <p align="center">
@@ -9,31 +9,59 @@
   <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-AI--Assisted-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nearshore-Ready-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nearshore-UTC--3-27AE60?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <strong>→ Global positioning and business case: <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/">wesleyzilva.github.io/portfolioNearshoreWesIA</a></strong>
 </p>
 
 ---
 
-## Who I Am
+## Global Portfolio
 
-Senior full-stack engineer and nearshore leader operating from Brazil at UTC-3 — the time zone that gives US clients full working-day overlap and EU clients a productive morning sync without the 24-hour async cycle that makes offshore models expensive to manage. I build production-deployed applications that solve measurable business problems: closed-loop Google Ads attribution for healthcare clinics, B2B SaaS platforms for tax credit recovery, digital loyalty programmes for small businesses, and enterprise Java backends running at 80M+ daily transactions.
+**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
 
-I work at nearshore-ready standards: C2 English, clean layered architecture, CI/CD via GitHub Actions, live deployments inspectable at any time, and a documented AI-assisted development workflow that multiplies delivery throughput without proportionally increasing management overhead.
+- The competitive case for Brazilian nearshore vs. Eastern Europe, Asia, and LatAm alternatives
+- The full business profile with verified operational metrics
+- The engagement model and proposal structure
+- An SEO-indexed hot-search page answering the questions that surface in real searches
+
+This GitHub profile exists to provide the **evidence base** behind those claims — production code, deployment history, and project-level proof of the delivery record.
 
 ---
 
-## The Brazilian Nearshore Advantage
+## The Brazilian Nearshore Case — Summary
+
+Brazil at UTC-3 gives US clients full working-day overlap and EU clients a productive morning sync — without the 24-hour async cycle that makes offshore models expensive in practice. Senior engineers trained in Brazil's financial services and enterprise ecosystems match Central European technical depth at 40–60% lower cost than Western European rates.
 
 | Dimension | Brazil (UTC-3) | Eastern Europe (UTC+2) | India / Asia (UTC+5.5) |
 |-----------|---------------|----------------------|----------------------|
-| **US overlap** | Full working day | 3–4 hours (morning only) | Near-zero sync hours |
-| **EU overlap** | Full morning + partial afternoon | Full overlap | Morning only |
+| **US working-day overlap** | Full | 3–4 hours | Near-zero |
+| **EU morning overlap** | Full | Full | Partial |
 | **Cost vs. Western EU** | 40–60% lower | 30–50% lower | 60–70% lower |
-| **Enterprise Java / Angular depth** | Financial services ecosystem scale | Strong | Variable at senior level |
-| **English C2 at senior level** | Yes (financial services + nearshore culture) | Common | Variable |
-| **Cultural operating model** | Direct communication, ownership, async-ready | Strong | High interpretation overhead |
+| **Enterprise Java / Angular depth** | Financial services scale | Strong | Variable at senior level |
+| **C2 English at senior level** | Yes | Common | Variable |
+| **Direct communication model** | Yes — ownership culture | Strong | High interpretation overhead |
 
-> Brazil uniquely combines time-zone proximity with cost advantage without the coordination overhead that makes low-cost offshore relationships expensive in practice. The question is not which country has the cheapest engineers — it is which country has senior engineers who are actually present when the architecture decision happens.
+> The differentiator is not being cheapest. It is being present — technically, linguistically, and culturally — when the architecture decision happens. That is what UTC-3 plus Brazilian enterprise depth produces.
+
+**Full competitive argument → [Hot Search page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/hot-search)**
+
+---
+
+## Why Wesley — The Case in Numbers
+
+| Metric | Evidence |
+|--------|----------|
+| 14+ years | Leading technology and operational delivery across financial services and enterprise |
+| 80M+ daily transactions | Data-intensive pipeline management with financial and regulatory impact |
+| 90% vulnerability reduction | DevSecOps without a single sprint freeze |
+| R$500M+ monthly | Reconciliation system ownership across distributed infrastructure |
+| 3 continents | Distributed and nearshore team leadership in production |
+| AI-first model | Documented AI workflow multiplying team throughput without proportional overhead increase |
+
+**Full business profile → [Business Profile page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/business-profile)**
 
 ---
 
@@ -82,15 +110,19 @@ LOW  │────────────────────────
 
 ---
 
-## Portfolio Projects
+---
+
+## Portfolio Projects — The Evidence Base
+
+Each project below is a production deployment solving a real business problem. Together they are the verifiable foundation for the claims made on the [global portfolio site](https://wesleyzilva.github.io/portfolioNearshoreWesIA/). The breadth is deliberate: attribution engineering, data pipelines, compliance tooling, e-commerce, loyalty platforms, and the portfolio itself — each one a different dimension of the full-stack + nearshore-lead profile.
 
 | Project | Problem Solved | Result | Stack |
 |---------|---------------|--------|-------|
 | [**dradaianaferraz_gold**](https://github.com/wesleyzilva/dradaianaferraz_gold) | Google Ads spend with no attribution to patient leads | Closed attribution loop: every WhatsApp click tracked in Google Ads Smart Bidding | Angular · GA4 · Google Ads |
 | [**whatsappSenderHttp**](https://github.com/wesleyzilva/whatsappSenderHttp) | Dormant patient base with no systematic re-engagement | Automated reactivation pipeline with Customer Match export to Google Ads | Node.js · Python · PowerShell |
-| [**portfolioNearshoreWesIA**](https://github.com/wesleyzilva/portfolioNearshoreWesIA) | Senior engineers need live proof of full-stack craft for nearshore pitches | Production-deployed Angular + Java portfolio with documented AI workflow | Angular · Java · PostgreSQL |
+| [**portfolioNearshoreWesIA**](https://wesleyzilva.github.io/portfolioNearshoreWesIA/) ↗ | Senior engineers need live proof of full-stack craft for nearshore pitches | Production-deployed Angular portfolio with documented AI workflow — **this is the global positioning site** | Angular · Java · PostgreSQL |
 | [**imprimaMais**](https://github.com/wesleyzilva/imprimaMais) | Direct importer invisible to B2B resellers | Professional storefront converting reseller intent into WhatsApp conversations | Angular · SCSS |
-| [**restituicaoICMS_ISS_porIBS_front**](https://github.com/wesleyzilva/restituicaoICMS_ISS_porIBS_front) | R$ 500B in unreclaimed tax credits expiring due to 5-year prescriptive deadline | Self-service simulation + guided recovery wizard + Tax Reform impact projection | Angular · Tailwind |
+| [**restituicaoICMS_ISS_porIBS_front**](https://github.com/wesleyzilva/restituicaoICMS_ISS_porIBS_front) | R$500B in unreclaimed tax credits expiring due to 5-year prescriptive deadline | Self-service simulation + guided recovery wizard + Tax Reform impact projection | Angular · Tailwind |
 | [**VIPpocket**](https://github.com/wesleyzilva/VIPpocket) | Paper loyalty cards get lost; no data on whether loyalty programmes work | QR-code digital card with 7-day cycle tracking; zero card-loss attrition | Angular · PWA |
 | [**VIPpocket_adm**](https://github.com/wesleyzilva/VIPpocket_adm) | Loyalty programme operators can't measure ROI of their discounts | Per-customer LTV, frequency, average ticket, and programme cost dashboard | Angular |
 
@@ -124,6 +156,6 @@ This workflow is visible across all repositories — every `git-manager.ps1`, ev
 
 ## Connect
 
-- **GitHub:** [github.com/wesleyzilva](https://github.com/wesleyzilva)
+- **Global Portfolio:** [wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/) ← start here
+- **GitHub:** [github.com/wesleyzilva](https://github.com/wesleyzilva) ← project evidence base
 - **LinkedIn:** [linkedin.com/in/wesleyzilva](https://www.linkedin.com/in/wesleyzilva)
-- **Portfolio:** [wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/)
