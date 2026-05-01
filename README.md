@@ -97,22 +97,23 @@ quadrantChart
     quadrant-2 Foundation Specialist depth
     quadrant-3 Growing
     quadrant-4 Emerging
-    classDef hard fill:#2563EB,color:#ffffff,stroke:#1d4ed8
-    classDef soft fill:#16a34a,color:#ffffff,stroke:#15803d
-    TypeScript:::hard: [0.87, 0.96]
-    Angular:::hard: [0.80, 0.93]
-    Java:::hard: [0.73, 0.82]
-    PowerShell:::hard: [0.13, 0.91]
-    HTML SCSS:::hard: [0.26, 0.87]
-    JavaScript:::hard: [0.76, 0.68]
-    Python:::hard: [0.62, 0.54]
-    Shell:::hard: [0.15, 0.45]
-    Exec Communication:::soft: [0.65, 0.92]
-    Agile Delivery:::soft: [0.58, 0.88]
-    Stakeholder Alignment:::soft: [0.52, 0.84]
+    TypeScript: [0.87, 0.96]
+    Angular: [0.80, 0.93]
+    Java: [0.73, 0.82]
+    PowerShell: [0.13, 0.91]
+    HTML SCSS: [0.26, 0.87]
+    JavaScript: [0.76, 0.68]
+    Python: [0.62, 0.54]
+    Shell: [0.15, 0.45]
+    Exec Communication: [0.65, 0.90]
+    Agile Delivery: [0.58, 0.86]
+    Stakeholder Mgmt: [0.52, 0.82]
 ```
 
-> 🔵 Hard skills · 🟢 Soft skills
+| Type | Skills |
+|------|--------|
+| ![Hard](https://img.shields.io/badge/Hard_Skills-Technical-2563EB?style=flat-square) | TypeScript · Angular · Java · PowerShell · HTML/SCSS · JavaScript · Python · Shell |
+| ![Soft](https://img.shields.io/badge/Soft_Skills-Interpersonal-16a34a?style=flat-square) | Exec Communication · Agile Delivery · Stakeholder Mgmt |
 
 ### Quadrant Breakdown
 
