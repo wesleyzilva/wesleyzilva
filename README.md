@@ -91,9 +91,9 @@ quadrantChart
     title Technology Priority Matrix — Wesley Gomes da Silva
     x-axis Low Market Demand --> High Market Demand
     y-axis Low Mastery --> High Mastery
-    quadrant-1 Core — Bill immediately
-    quadrant-2 Foundation — Specialist depth
-    quadrant-3 Growing — Expanding
+    quadrant-1 Core: Bill immediately
+    quadrant-2 Foundation: Specialist depth
+    quadrant-3 Growing: Expanding
     quadrant-4 Low priority
     TypeScript: [0.85, 0.96]
     Angular: [0.92, 0.96]
