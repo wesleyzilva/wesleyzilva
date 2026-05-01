@@ -1,151 +1,129 @@
-<h1 align="center">Wesley Gomes da Silva</h1>
-<h3 align="center">IT Manager · Agile Coach · PO Tech · AI-Driven Remote Leadership</h3>
+<h1 align="center">Wesley Zilva</h1>
 
 <p align="center">
-  <em>"Teams deliver faster. Decisions improve with data. Product and tech get aligned.<br>
-  — That is what changes after I join."</em>
+  <em>Full-Stack Engineer · AI-Assisted Development · Angular · Java · Cloud-Ready</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesleyzilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-wesleyzilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Nearshore%20%7C%20Agile%20%7C%20AI-6c3483?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:wesley.zilva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-São%20Carlos%2C%20Brazil%20UTC--3-27AE60?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Available-Nearshore%20%7C%20Offshore-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Angular-20+-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI--Assisted-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nearshore-Ready-27AE60?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 About Me
+## Who I Am
 
-I am a **senior IT leader with 14+ years of experience** managing high-performing nearshore teams across the Americas, Europe, and Africa. My work sits at the intersection of agile delivery, technical product ownership, and AI-augmented team operations.
+Senior full-stack engineer and nearshore leader operating from Brazil at UTC-3 — the time zone that gives US clients full working-day overlap and EU clients a productive morning sync without the 24-hour async cycle that makes offshore models expensive to manage. I build production-deployed applications that solve measurable business problems: closed-loop Google Ads attribution for healthcare clinics, B2B SaaS platforms for tax credit recovery, digital loyalty programmes for small businesses, and enterprise Java backends running at 80M+ daily transactions.
 
-I bridge the gap between business stakeholders and engineering squads — translating complex requirements into structured backlogs, measurable OKRs, and executable roadmaps. My squads consistently improve throughput, reduce risk, and ship with predictability.
-
-> 🌍 **Reach:** 3 continents · 🗣 **English:** C1 · 🤖 **AI-first workflow** · ✈️ **Travel available**
+I work at nearshore-ready standards: C2 English, clean layered architecture, CI/CD via GitHub Actions, live deployments inspectable at any time, and a documented AI-assisted development workflow that multiplies delivery throughput without proportionally increasing management overhead.
 
 ---
 
-## 📊 Impact by the Numbers
+## The Brazilian Nearshore Advantage
 
-| Metric | Result |
-|--------|--------|
-| 💳 Transactions managed daily | **80M+** |
-| 💰 Monthly financial reconciliation | **R$500M+** |
-| 🔐 Vulnerability reduction (DevSecOps programme) | **90%** |
-| ⏱️ MTTR reduction after observability overhaul | **45%** |
-| 🟢 Uptime maintained in critical payment systems | **99.95%** |
-| 🗓️ Years leading technology teams | **14+** |
-| 📦 Projects delivered (audited) | **12+** |
+| Dimension | Brazil (UTC-3) | Eastern Europe (UTC+2) | India / Asia (UTC+5.5) |
+|-----------|---------------|----------------------|----------------------|
+| **US overlap** | Full working day | 3–4 hours (morning only) | Near-zero sync hours |
+| **EU overlap** | Full morning + partial afternoon | Full overlap | Morning only |
+| **Cost vs. Western EU** | 40–60% lower | 30–50% lower | 60–70% lower |
+| **Enterprise Java / Angular depth** | Financial services ecosystem scale | Strong | Variable at senior level |
+| **English C2 at senior level** | Yes (financial services + nearshore culture) | Common | Variable |
+| **Cultural operating model** | Direct communication, ownership, async-ready | Strong | High interpretation overhead |
+
+> Brazil uniquely combines time-zone proximity with cost advantage without the coordination overhead that makes low-cost offshore relationships expensive in practice. The question is not which country has the cheapest engineers — it is which country has senior engineers who are actually present when the architecture decision happens.
 
 ---
 
-## 🎯 Best Role Fit
+## Technical Profile — Language Distribution Across All Repositories
+
+Aggregated from production repositories as of May 2026:
+
+| Language | Primary Use | Repos | Depth |
+|----------|-------------|-------|-------|
+| **TypeScript** | Angular applications (components, services, signals, routing) | 5 | ★★★★★ |
+| **HTML** | Angular templates, SEO/schema.org, OG metadata | 5 | ★★★★★ |
+| **SCSS** | Component styling, mobile-first design systems, animations | 5 | ★★★★☆ |
+| **PowerShell** | Git automation, deployment pipelines, operational scripting | 6 | ★★★★★ |
+| **JavaScript** | Node.js dispatch engines, client-side automation | 3 | ★★★★☆ |
+| **Python** | Data processing, list generation, deployment orchestration | 2 | ★★★☆☆ |
+| **Java** | Spring Boot REST APIs, Facade/Service/Persistence layers | 2 | ★★★★☆ |
+| **Shell** | Linux deployment scripts, GitHub Actions pipelines | 1 | ★★★☆☆ |
+
+---
+
+## Technology Priority Matrix
+
+> **How to read:** X axis = Market Demand (how globally sought-after is this skill). Y axis = My Mastery (depth demonstrated in production projects).
 
 ```
-✅  IT Manager / Delivery Manager       ✅  Agile Lead / Scrum of Scrums
-✅  Technical Product Owner             ✅  Nearshore Team Lead
-✅  AI Workspace Specialist             ✅  DevSecOps Delivery Stream Lead
+HIGH MASTERY
+     │
+     │  PowerShell ●         TypeScript ●  Angular ●
+     │  HTML/SCSS ●
+     │
+     │                       JavaScript ●  Java ●
+     │  Shell ●
+     │                       Python ●
+     │
+LOW  │───────────────────────────────────────────────► HIGH DEMAND
+     │
 ```
 
----
+### Quadrant Breakdown
 
-## 🛠️ Operating Stack
-
-**Agile & Delivery**
-
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
-![SAFe](https://img.shields.io/badge/SAFe-CC0000?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
-![OKRs](https://img.shields.io/badge/OKRs-FF6B35?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Azure Boards](https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-
-**AI & Productivity**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Datadog AI](https://img.shields.io/badge/Datadog%20AI-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-
-**Security & Observability**
-
-![Veracode](https://img.shields.io/badge/Veracode-009BDE?style=flat-square)
-![Rapid7](https://img.shields.io/badge/Rapid7-E3001B?style=flat-square)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat-square)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Engineering**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-**Governance & Compliance**
-
-![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat-square)
-![LGPD](https://img.shields.io/badge/LGPD-009639?style=flat-square)
-![BACEN](https://img.shields.io/badge/BACEN-003087?style=flat-square)
-![ITIL](https://img.shields.io/badge/ITIL-6B2C91?style=flat-square)
+| Quadrant | Technologies | Strategic meaning |
+|----------|-------------|-------------------|
+| **Core** (High Mastery + High Demand) | TypeScript · Angular · Java | Production-ready, billable immediately for global clients |
+| **Foundation** (High Mastery + Specialist Demand) | PowerShell · HTML · SCSS | Critical operational depth; differentiator in DevOps-adjacent roles |
+| **Growing** (Building Mastery + High Demand) | Python · JavaScript · Shell | Active in production projects; expanding depth with each release |
 
 ---
 
-## 🚀 Selected Projects
+## Portfolio Projects
 
-> Full case studies with context, actions, and measured outcomes available at my **[portfolio →](https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero)**
-
-| # | Project | My Role | Key Outcome |
-|---|---------|---------|-------------|
-| 01 | DevSecOps programme — 110 Java/Angular apps | IT Manager · DevSecOps Lead | 1,200 → 300 vulnerabilities in 9 months |
-| 02 | Distributed payment platform (80M tx/day) | Delivery Manager · PO Tech | 99.95% uptime · sub-ms orchestration |
-| 03 | Financial reconciliation pipeline (R$500M/month) | Data Engineering Lead | 45% MTTR reduction · regulatory compliance |
-| 04 | Nearshore squad setup — India, Brazil, South Africa | Agile Coach · Chapter Lead | Scrum + SAFe ceremonies across 3 time zones |
-| 05 | AI-augmented engineering workflow | IT Manager | Copilot + ChatGPT embedded in SDLC → higher throughput |
-| 06 | Partners management portal — full stack | Delivery Lead · PO Tech | RBAC, real-time KPIs, mobile-first |
-| 07 | Observability & alerting overhaul | DevSecOps Lead | Datadog RUM + APM · 45% MTTR reduction |
-| 08 | Multi-channel payment gateway (PCI DSS L1) | Principal Architect | API-first, event-driven, multi-provider |
+| Project | Problem Solved | Result | Stack |
+|---------|---------------|--------|-------|
+| [**dradaianaferraz_gold**](https://github.com/wesleyzilva/dradaianaferraz_gold) | Google Ads spend with no attribution to patient leads | Closed attribution loop: every WhatsApp click tracked in Google Ads Smart Bidding | Angular · GA4 · Google Ads |
+| [**whatsappSenderHttp**](https://github.com/wesleyzilva/whatsappSenderHttp) | Dormant patient base with no systematic re-engagement | Automated reactivation pipeline with Customer Match export to Google Ads | Node.js · Python · PowerShell |
+| [**portfolioNearshoreWesIA**](https://github.com/wesleyzilva/portfolioNearshoreWesIA) | Senior engineers need live proof of full-stack craft for nearshore pitches | Production-deployed Angular + Java portfolio with documented AI workflow | Angular · Java · PostgreSQL |
+| [**imprimaMais**](https://github.com/wesleyzilva/imprimaMais) | Direct importer invisible to B2B resellers | Professional storefront converting reseller intent into WhatsApp conversations | Angular · SCSS |
+| [**restituicaoICMS_ISS_porIBS_front**](https://github.com/wesleyzilva/restituicaoICMS_ISS_porIBS_front) | R$ 500B in unreclaimed tax credits expiring due to 5-year prescriptive deadline | Self-service simulation + guided recovery wizard + Tax Reform impact projection | Angular · Tailwind |
+| [**VIPpocket**](https://github.com/wesleyzilva/VIPpocket) | Paper loyalty cards get lost; no data on whether loyalty programmes work | QR-code digital card with 7-day cycle tracking; zero card-loss attrition | Angular · PWA |
+| [**VIPpocket_adm**](https://github.com/wesleyzilva/VIPpocket_adm) | Loyalty programme operators can't measure ROI of their discounts | Per-customer LTV, frequency, average ticket, and programme cost dashboard | Angular |
 
 ---
 
-## 🌐 What I Offer — Nearshore & Global
+## AI-Assisted Development Workflow
 
-| Service | Description |
-|---------|-------------|
-| 🤖 **AI-Powered Team Management** | GitHub Copilot, ChatGPT and Datadog AI embedded into squad workflows |
-| 🌍 **Nearshore Squad Setup** | Multicultural onboarding, async-first ceremonies, multi-timezone alignment |
-| 🔐 **Observability & DevSecOps** | Secure CI/CD, Veracode, Rapid7, Checkmarx, Datadog RUM |
-| 📊 **Data Engineering** | ETL pipelines, financial reconciliation, Databricks + Spark |
-| 📋 **PO Tech** | Backlog definition, API-first user stories, roadmap, stakeholder bridge |
-| 🎓 **International Agile Coaching** | Scrum, SAFe, Six Sigma applied across India, Brazil & South Africa |
-| ⚖️ **Governance & Compliance** | PCI-DSS, LGPD, BACEN regulatory lifecycle management |
+I integrate AI tooling as a first-class part of my engineering process — not as a shortcut, but as a documented, reproducible workflow:
 
----
+```
+Requirement → GitHub Copilot (inline scaffolding)
+    └─► Component / service generated with correct patterns
+             └─► Manual review: architecture, security, performance
+                      └─► Copilot Chat: tradeoff analysis, refactoring options
+                               └─► Commit: clean, attributable, production-ready
+```
 
-## 📬 Let's Talk
-
-If you are looking for someone who can lead distributed squads, align product with engineering, reduce delivery risk, and embed AI into your team's daily operations — I am available for nearshore and offshore engagements.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wesleyzilva/"><strong>🔗 LinkedIn</strong></a> &nbsp;·&nbsp;
-  <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero"><strong>🌐 Portfolio</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:wesley.zilva@gmail.com"><strong>📧 Email</strong></a> &nbsp;·&nbsp;
-  <a href="https://wa.me/5516997212966"><strong>💬 WhatsApp</strong></a>
-</p>
+This workflow is visible across all repositories — every `git-manager.ps1`, every `README.md`, every Angular component follows the same documented standard.
 
 ---
 
-<p align="center">
-  <sub>📍 São Carlos, São Paulo, Brazil · UTC-3 · Travel Available · Remote-first</sub>
-</p>
+## Engineering Principles
+
+- **Attribution before optimisation** — measure before spending
+- **Flat-file first** — avoid infrastructure until the problem requires it
+- **Component contracts over convenience** — explicit inputs/outputs, OnPush everywhere
+- **Tradeoffs documented** — every architectural decision is recorded with its rationale
+- **Nearshore-ready by default** — English-first documentation, CI/CD, live demos
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/wesleyzilva](https://github.com/wesleyzilva)
+- **LinkedIn:** [linkedin.com/in/wesleyzilva](https://www.linkedin.com/in/wesleyzilva)
+- **Portfolio:** [wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/)
