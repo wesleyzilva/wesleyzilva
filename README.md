@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-AI--Assisted-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum_%7C_Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Global-3_Continents-1B2A4A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nearshore-UTC--3-27AE60?style=for-the-badge"/>
 </p>
 
@@ -88,30 +90,38 @@ Aggregated from production repositories as of May 2026:
 
 ```mermaid
 quadrantChart
-    title Technology Priority Matrix Wesley Gomes da Silva
+    title Technology Priority Matrix
     x-axis Low Market Demand --> High Market Demand
     y-axis Low Mastery --> High Mastery
     quadrant-1 Core Bill immediately
     quadrant-2 Foundation Specialist depth
     quadrant-3 Growing
-    quadrant-4 Low priority
-    TypeScript: [0.85, 0.96]
-    Angular: [0.92, 0.96]
-    Java: [0.79, 0.80]
-    PowerShell: [0.20, 0.93]
-    HTML SCSS: [0.30, 0.88]
-    JavaScript: [0.73, 0.73]
-    Shell: [0.23, 0.55]
-    Python: [0.60, 0.58]
+    quadrant-4 Emerging
+    classDef hard fill:#2563EB,color:#ffffff,stroke:#1d4ed8
+    classDef soft fill:#16a34a,color:#ffffff,stroke:#15803d
+    TypeScript:::hard: [0.87, 0.96]
+    Angular:::hard: [0.80, 0.93]
+    Java:::hard: [0.73, 0.82]
+    PowerShell:::hard: [0.13, 0.91]
+    HTML SCSS:::hard: [0.26, 0.87]
+    JavaScript:::hard: [0.76, 0.68]
+    Python:::hard: [0.62, 0.54]
+    Shell:::hard: [0.15, 0.45]
+    Exec Communication:::soft: [0.65, 0.92]
+    Agile Delivery:::soft: [0.58, 0.88]
+    Stakeholder Alignment:::soft: [0.52, 0.84]
 ```
+
+> 🔵 Hard skills · 🟢 Soft skills
 
 ### Quadrant Breakdown
 
-| Quadrant | Technologies | Strategic meaning |
-|----------|-------------|-------------------|
-| **Core** (High Mastery + High Demand) | TypeScript · Angular · Java | Production-ready, billable immediately for global clients |
-| **Foundation** (High Mastery + Specialist Demand) | PowerShell · HTML · SCSS | Critical operational depth; differentiator in DevOps-adjacent roles |
-| **Growing** (Building Mastery + High Demand) | Python · JavaScript · Shell | Active in production projects; expanding depth with each release |
+| Quadrant | Skills | Strategic meaning |
+|----------|--------|-------------------|
+| **Core** (High Mastery + High Demand) | TypeScript · Angular · Java · Executive Communication · Agile Delivery · Stakeholder Alignment | Production-ready and immediately billable for global clients |
+| **Foundation** (High Mastery + Specialist Demand) | PowerShell · HTML · SCSS | Operational depth; differentiator in DevOps-adjacent roles |
+| **Growing** (Building Mastery + High Demand) | JavaScript · Python | Active in production; expanding depth each release |
+| **Emerging** (Lower Mastery + Lower Demand) | Shell | Supporting infrastructure scripting |
 
 ---
 
