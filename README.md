@@ -1,145 +1,151 @@
-# Wesley Gomes — Executive Technology Portfolio
+<h1 align="center">Wesley Gomes da Silva</h1>
+<h3 align="center">IT Manager · Agile Coach · PO Tech · AI-Driven Remote Leadership</h3>
 
-> **High-impact digital products, data-driven solutions, and global architecture leadership**
+<p align="center">
+  <em>"Teams deliver faster. Decisions improve with data. Product and tech get aligned.<br>
+  — That is what changes after I join."</em>
+</p>
 
-Welcome to my executive portfolio. Here you'll find flagship projects, production-grade architectures, and insights on building technology that scales globally while maintaining security, compliance, and operational excellence.
-
----
-
-## 🎯 About Me
-
-**Senior Software Architect & Technical Leader** with 10+ years building large-scale financial and payment systems.
-
-- 🏢 **Current:** Experian | Flexpag (Brazil's largest platform for Bills, Payments & Collections)
-- 🌍 **Expertise:** Microservices, Event-Driven Architecture, Payment Systems, Real-Time Data Pipelines
-- 🔐 **Specialties:** PCI DSS, LGPD, Security & Compliance, High-Availability Systems
-- 📊 **Scale:** Platforms processing **100M+ transactions/month**, **400+ repositories**
-
----
-
-## 🚀 Flagship Projects
-
-### 1. **Flexpag Ecosystem** — Bills, Payments & Collections Platform
-**Role:** Architect & Lead Developer | **Tech:** Java, Spring Boot, Kafka, PostgreSQL, AWS  
-**Impact:** Processes 100M+ transactions monthly across 400+ microservices
-
-- **FlexHub MS (Utilities):** Customer, Debts, Orders, Purchase microservices
-- **Payment Manager:** Real-time payment orchestration (Pix, Boleto, Credit Card)
-- **SmartPOS Backend:** IoT payment devices integration
-- **Totem API:** Points-of-sale unification
-
-📚 [Flexpag Ecosystem Documentation](../ECOSYSTEM-flexpag.md)
-
-### 2. **Partners Portal (BFF + Frontend)**
-**Role:** Full-stack Lead | **Tech:** Angular 17, Tailwind, Java Spring Boot  
-**Status:** Production | **Users:** 1000+ partner organizations
-
-- Responsive dashboard for partner management
-- Real-time KPI monitoring and financial analytics
-- Smart POS device integration
-- RBAC (Role-Based Access Control)
-
-📚 [BFF Architecture](../aquitetura_flexpag/README-ARQUITETURA.md)
-
-### 3. **Payment Gateway Integration Layer**
-**Role:** Principal Architect | **Tech:** Java, WebClient (Reactive), Spring Cloud  
-**Handles:** Multi-channel payment processing (PIX, Boleto, Cards)
-
-- PCI DSS Level 1 compliance
-- Sub-millisecond latency orchestration
-- Event-driven settlement reconciliation
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesleyzilva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-wesleyzilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Nearshore%20%7C%20Agile%20%7C%20AI-6c3483?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:wesley.zilva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-São%20Carlos%2C%20Brazil%20UTC--3-27AE60?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available-Nearshore%20%7C%20Offshore-F39C12?style=for-the-badge" />
+</p>
 
 ---
 
-## 🏗️ Architecture Highlights
+## 👋 About Me
 
-### Microservices & Event-Driven Design
+I am a **senior IT leader with 14+ years of experience** managing high-performing nearshore teams across the Americas, Europe, and Africa. My work sits at the intersection of agile delivery, technical product ownership, and AI-augmented team operations.
+
+I bridge the gap between business stakeholders and engineering squads — translating complex requirements into structured backlogs, measurable OKRs, and executable roadmaps. My squads consistently improve throughput, reduce risk, and ship with predictability.
+
+> 🌍 **Reach:** 3 continents · 🗣 **English:** C1 · 🤖 **AI-first workflow** · ✈️ **Travel available**
+
+---
+
+## 📊 Impact by the Numbers
+
+| Metric | Result |
+|--------|--------|
+| 💳 Transactions managed daily | **80M+** |
+| 💰 Monthly financial reconciliation | **R$500M+** |
+| 🔐 Vulnerability reduction (DevSecOps programme) | **90%** |
+| ⏱️ MTTR reduction after observability overhaul | **45%** |
+| 🟢 Uptime maintained in critical payment systems | **99.95%** |
+| 🗓️ Years leading technology teams | **14+** |
+| 📦 Projects delivered (audited) | **12+** |
+
+---
+
+## 🎯 Best Role Fit
+
 ```
-FlexHub (Utilities) ──→ Payment Manager ──→ PIX/Boleto/Card Gateways
-         ↓
-      Kafka Topics (Events)
-         ↓
-  Analytics Backend ← Real-time data pipeline
+✅  IT Manager / Delivery Manager       ✅  Agile Lead / Scrum of Scrums
+✅  Technical Product Owner             ✅  Nearshore Team Lead
+✅  AI Workspace Specialist             ✅  DevSecOps Delivery Stream Lead
 ```
 
-### Key Principles
-✅ **Decoupled services** via Kafka event streaming  
-✅ **Database per service** pattern (no shared monolithic DB)  
-✅ **SOLID principles** in service design  
-✅ **Comprehensive monitoring** via Datadog, Grafana  
-✅ **Infrastructure as Code** (Terraform, Docker, Kubernetes)
+---
 
-📊 [Full Architecture Diagram](../arquitetura_flexpag/ARQUITETURA-GERAL.md)
+## 🛠️ Operating Stack
+
+**Agile & Delivery**
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![SAFe](https://img.shields.io/badge/SAFe-CC0000?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
+![OKRs](https://img.shields.io/badge/OKRs-FF6B35?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+
+**AI & Productivity**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Datadog AI](https://img.shields.io/badge/Datadog%20AI-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+
+**Security & Observability**
+
+![Veracode](https://img.shields.io/badge/Veracode-009BDE?style=flat-square)
+![Rapid7](https://img.shields.io/badge/Rapid7-E3001B?style=flat-square)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat-square)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Engineering**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Governance & Compliance**
+
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-009639?style=flat-square)
+![BACEN](https://img.shields.io/badge/BACEN-003087?style=flat-square)
+![ITIL](https://img.shields.io/badge/ITIL-6B2C91?style=flat-square)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Selected Projects
 
-| Layer | Technologies |
-|-------|---------------|
-| **Backend** | Java 17/21, Spring Boot 3.x, Spring Cloud, WebFlux |
-| **Event Streaming** | Apache Kafka, RabbitMQ |
-| **Database** | PostgreSQL, H2 (testing), Redis |
-| **Frontend** | Angular 17+, TypeScript, Tailwind CSS, Signals |
-| **Infrastructure** | AWS (ECS, Lambda, RDS), Docker, Kubernetes |
-| **Observability** | Datadog, Grafana, ELK Stack |
-| **Testing** | JUnit 5, Mockito, Jest, Karma |
-| **Security** | OAuth 2.0, JWT, PCI DSS, LGPD compliance |
+> Full case studies with context, actions, and measured outcomes available at my **[portfolio →](https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero)**
 
----
-
-## 📚 Documentation & Guides
-
-- 📖 [Getting Started with Flexpag](../GETTING-STARTED.md)
-- 🏛️ [Architecture Overview](../arquitetura_flexpag/ARQUITETURA-GERAL.md)
-- 🗄️ [Database Schema & Mapping](../RDS%20banco%20schema%20tabela%20Flexpag.txt)
-- 🔒 [Security & Compliance](../SECURITY-flexpag.md)
-- ✅ [Testing Strategy](../TESTING-flexpag.md)
-- 🚀 [Local Setup Instructions](../INSTRUCOES-ACESSO-LOCAL-FLEXPAG.md)
+| # | Project | My Role | Key Outcome |
+|---|---------|---------|-------------|
+| 01 | DevSecOps programme — 110 Java/Angular apps | IT Manager · DevSecOps Lead | 1,200 → 300 vulnerabilities in 9 months |
+| 02 | Distributed payment platform (80M tx/day) | Delivery Manager · PO Tech | 99.95% uptime · sub-ms orchestration |
+| 03 | Financial reconciliation pipeline (R$500M/month) | Data Engineering Lead | 45% MTTR reduction · regulatory compliance |
+| 04 | Nearshore squad setup — India, Brazil, South Africa | Agile Coach · Chapter Lead | Scrum + SAFe ceremonies across 3 time zones |
+| 05 | AI-augmented engineering workflow | IT Manager | Copilot + ChatGPT embedded in SDLC → higher throughput |
+| 06 | Partners management portal — full stack | Delivery Lead · PO Tech | RBAC, real-time KPIs, mobile-first |
+| 07 | Observability & alerting overhaul | DevSecOps Lead | Datadog RUM + APM · 45% MTTR reduction |
+| 08 | Multi-channel payment gateway (PCI DSS L1) | Principal Architect | API-first, event-driven, multi-provider |
 
 ---
 
-## 🔗 Quick Links
+## 🌐 What I Offer — Nearshore & Global
 
-| Resource | Link |
-|----------|------|
-| **GitHub Profile** | https://github.com/wesleyzilva |
-| **Email** | wesley.silva@br.experian.com |
-| **LinkedIn** | (Add when needed) |
-| **Flexpag Docs** | [Private repo — contact for access] |
-
----
-
-## 📊 Key Metrics
-
-- **Services:** 40+ microservices across Flexpag ecosystem
-- **Languages:** Java, TypeScript, Python, Kotlin
-- **CI/CD:** GitLab CI/CD + GitHub Actions
-- **Uptime:** 99.95% SLA (production grade)
-- **Teams Led:** 5-8 engineers across multiple squads
+| Service | Description |
+|---------|-------------|
+| 🤖 **AI-Powered Team Management** | GitHub Copilot, ChatGPT and Datadog AI embedded into squad workflows |
+| 🌍 **Nearshore Squad Setup** | Multicultural onboarding, async-first ceremonies, multi-timezone alignment |
+| 🔐 **Observability & DevSecOps** | Secure CI/CD, Veracode, Rapid7, Checkmarx, Datadog RUM |
+| 📊 **Data Engineering** | ETL pipelines, financial reconciliation, Databricks + Spark |
+| 📋 **PO Tech** | Backlog definition, API-first user stories, roadmap, stakeholder bridge |
+| 🎓 **International Agile Coaching** | Scrum, SAFe, Six Sigma applied across India, Brazil & South Africa |
+| ⚖️ **Governance & Compliance** | PCI-DSS, LGPD, BACEN regulatory lifecycle management |
 
 ---
 
-## 🎓 Open Source & Community
+## 📬 Let's Talk
 
-Contributing to the Flexpag ecosystem and maintaining best practices for:
-- ✅ Clean architecture
-- ✅ Security hardening
-- ✅ Performance optimization
-- ✅ LGPD/PCI compliance
+If you are looking for someone who can lead distributed squads, align product with engineering, reduce delivery risk, and embed AI into your team's daily operations — I am available for nearshore and offshore engagements.
 
----
-
-## 🤝 Let's Connect
-
-If you're interested in:
-- 🏗️ **Architecture consulting** for payment/fintech systems
-- 💼 **Technical leadership** roles
-- 🔐 **Compliance & security** architecture
-- 📊 **Scalable system design**
-
-**Reach out:** wesley.silva@br.experian.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesleyzilva/"><strong>🔗 LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/#hero"><strong>🌐 Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:wesley.zilva@gmail.com"><strong>📧 Email</strong></a> &nbsp;·&nbsp;
+  <a href="https://wa.me/5516997212966"><strong>💬 WhatsApp</strong></a>
+</p>
 
 ---
 
-**Last Updated:** May 1, 2026 | **Profile Version:** 1.0
+<p align="center">
+  <sub>📍 São Carlos, São Paulo, Brazil · UTC-3 · Travel Available · Remote-first</sub>
+</p>
