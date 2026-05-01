@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <strong>→ Global positioning and business case: <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/">wesleyzilva.github.io/portfolioNearshoreWesIA</a></strong>
+  <strong>→ Global positioning and business case: <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=overview&utm_content=hero_link">wesleyzilva.github.io/portfolioNearshoreWesIA</a></strong>
 </p>
 
 ---
 
 ## Global Portfolio
 
-**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
+**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=overview&utm_content=portfolio_section)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
 
 - The competitive case for Brazilian nearshore vs. Eastern Europe, Asia, and LatAm alternatives
 - The full business profile with verified operational metrics
@@ -48,7 +48,7 @@ Brazil at UTC-3 gives US clients full working-day overlap and EU clients a produ
 
 > The differentiator is not being cheapest. It is being present — technically, linguistically, and culturally — when the architecture decision happens. That is what UTC-3 plus Brazilian enterprise depth produces.
 
-**Full competitive argument → [Hot Search page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/hot-search)**
+**Full competitive argument → [Hot Search page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/hot-search?utm_source=github&utm_medium=profile&utm_campaign=nearshore_case&utm_content=hot_search)**
 
 ---
 
@@ -63,7 +63,7 @@ Brazil at UTC-3 gives US clients full working-day overlap and EU clients a produ
 | 3 continents | Distributed and nearshore team leadership in production |
 | AI-first model | Documented AI workflow multiplying team throughput without proportional overhead increase |
 
-**Full business profile → [Business Profile page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/business-profile)**
+**Full business profile → [Business Profile page](https://wesleyzilva.github.io/portfolioNearshoreWesIA/business-profile?utm_source=github&utm_medium=profile&utm_campaign=why_wesley&utm_content=business_profile)**
 
 ---
 
@@ -136,7 +136,7 @@ Each project below is a production deployment solving a real business problem. T
 |---------|---------------|--------|-------|
 | [**dradaianaferraz_gold**](https://github.com/wesleyzilva/dradaianaferraz_gold) | Google Ads spend with no attribution to patient leads | Closed attribution loop: every WhatsApp click tracked in Google Ads Smart Bidding | Angular · GA4 · Google Ads |
 | [**whatsappSenderHttp**](https://github.com/wesleyzilva/whatsappSenderHttp) | Dormant patient base with no systematic re-engagement | Automated reactivation pipeline with Customer Match export to Google Ads | Node.js · Python · PowerShell |
-| [**portfolioNearshoreWesIA**](https://wesleyzilva.github.io/portfolioNearshoreWesIA/) ↗ | Senior engineers need live proof of full-stack craft for nearshore pitches | Production-deployed Angular portfolio with documented AI workflow — **this is the global positioning site** | Angular · Java · PostgreSQL |
+| [**portfolioNearshoreWesIA**](https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=projects_table&utm_content=portfolio_row) ↗ | Senior engineers need live proof of full-stack craft for nearshore pitches | Production-deployed Angular portfolio with documented AI workflow — **this is the global positioning site** | Angular · Java · PostgreSQL |
 | [**imprimaMais**](https://github.com/wesleyzilva/imprimaMais) | Direct importer invisible to B2B resellers | Professional storefront converting reseller intent into WhatsApp conversations | Angular · SCSS |
 | [**restituicaoICMS_ISS_porIBS_front**](https://github.com/wesleyzilva/restituicaoICMS_ISS_porIBS_front) | R$500B in unreclaimed tax credits expiring due to 5-year prescriptive deadline | Self-service simulation + guided recovery wizard + Tax Reform impact projection | Angular · Tailwind |
 | [**VIPpocket**](https://github.com/wesleyzilva/VIPpocket) | Paper loyalty cards get lost; no data on whether loyalty programmes work | QR-code digital card with 7-day cycle tracking; zero card-loss attrition | Angular · PWA |
@@ -172,6 +172,6 @@ This workflow is visible across all repositories — every `git-manager.ps1`, ev
 
 ## Connect
 
-- **Global Portfolio:** [wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/) ← start here
+- **Global Portfolio:** [wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=connect_section&utm_content=footer_portfolio) ← start here
 - **GitHub:** [github.com/wesleyzilva](https://github.com/wesleyzilva) ← project evidence base
 - **LinkedIn:** [linkedin.com/in/wesleyzilva](https://www.linkedin.com/in/wesleyzilva)
