@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <strong>→ Global positioning and business case: <a href="https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=overview&utm_content=hero_link">wesleyzilva.github.io/portfolioNearshoreWesIA</a></strong>
+  <strong>→ Global positioning and business case: <a href="https://wesleyzilva.github.io/portfolio">wesleyzilva.github.io/portfolio</a></strong>
 </p>
 
 ---
 
 ## Global Portfolio
 
-**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolio)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
+**[wesleyzilva.github.io/portfolio](https://wesleyzilva.github.io/portfolio)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
 
 - The competitive case for Brazilian nearshore vs. Eastern Europe, Asia, and LatAm alternatives
 - The full business profile with verified operational metrics
