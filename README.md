@@ -22,7 +22,7 @@
 
 ## Global Portfolio
 
-**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolioNearshoreWesIA/?utm_source=github&utm_medium=profile&utm_campaign=overview&utm_content=portfolio_section)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
+**[wesleyzilva.github.io/portfolioNearshoreWesIA](https://wesleyzilva.github.io/portfolio)** is the primary entry point for recruiters, clients, and partners evaluating a nearshore engagement. It contains:
 
 - The competitive case for Brazilian nearshore vs. Eastern Europe, Asia, and LatAm alternatives
 - The full business profile with verified operational metrics
